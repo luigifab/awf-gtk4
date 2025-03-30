@@ -6,7 +6,7 @@ Summary(fr):   Application d'aperçu de thème pour GTK 4
 License:       GPLv3+
 Group:         Development/Basic
 URL:           https://github.com/luigifab/awf-extended
-Source0:       %{url}/archive/v%{version}/%{name}-%{version}.tar.gz
+Source0:       %{url}/archive/v%{version}/awf-extended-%{version}.tar.gz
 
 BuildRequires: aspell-fr
 BuildRequires: autoconf
